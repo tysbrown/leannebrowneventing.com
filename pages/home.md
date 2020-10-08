@@ -1,10 +1,10 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Services
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-This is where you can type an announcement that will apear in a card at the top of the page.
+I'm currently offering freelance training services to clients in the greater Orlando area. To get in touch, use the contact form on the contact page and provide the details of the kind of training you need. I will respond to your request within one business day with a proposal.
