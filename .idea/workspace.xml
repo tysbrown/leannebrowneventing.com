@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added css and js to templateFormats">
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/assets/css/inline.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/assets/css/inline.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/components/head.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/head.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="2085000" />
+      <workItem from="1602134692316" duration="2375000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -100,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602136525141</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine.">
+      <created>1602136841940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602136841940</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,12 +132,13 @@
     <MESSAGE value="Changed from minified css files to regular." />
     <MESSAGE value="Added njk template code to hopefully include the css files in the navbar." />
     <MESSAGE value="Added css and js to templateFormats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added css and js to templateFormats" />
+    <MESSAGE value="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602136526691">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602136843309">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602136526691" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602136843309" />
   </component>
 </project>
