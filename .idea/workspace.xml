@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Updated about page and services page.">
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Updated about blog page.">
       <change beforePath="$PROJECT_DIR$/_includes/components/postslist.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/postslist.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/blog.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/blog.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="9361000" />
+      <workItem from="1602134692316" duration="9686000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -326,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602143949990</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Updated about blog page.">
+      <created>1602144219312</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1602144219312</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +370,8 @@
     <MESSAGE value="Updated page.njk" />
     <MESSAGE value="Updated about page." />
     <MESSAGE value="Updated about page and services page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated about page and services page." />
+    <MESSAGE value="Updated about blog page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated about blog page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
@@ -375,9 +382,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374917" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602143951288">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602144220441">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602143951288" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602144220441" />
   </component>
 </project>
