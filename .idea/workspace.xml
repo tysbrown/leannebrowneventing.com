@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="3147000" />
+      <workItem from="1602134692316" duration="3261000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602137545837</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine.">
+      <created>1602137899050</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602137899050</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,9 +169,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602137547338">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602137900552">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602137547338" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602137900552" />
   </component>
 </project>
