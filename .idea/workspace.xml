@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added Bootstrap files and Nav Bar to test out site.">
-      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added /css /css/addons and /css/modules to eleventyConfig.addPassthroughCopy">
+      <change beforePath="$PROJECT_DIR$/_includes/components/head.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/head.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="1040000" />
+      <workItem from="1602134692316" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602135569712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added /css /css/addons and /css/modules to eleventyConfig.addPassthroughCopy">
+      <created>1602135787734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602135787734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,12 +91,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Bootstrap files and Nav Bar to test out site." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Bootstrap files and Nav Bar to test out site." />
+    <MESSAGE value="Added /css /css/addons and /css/modules to eleventyConfig.addPassthroughCopy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added /css /css/addons and /css/modules to eleventyConfig.addPassthroughCopy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602135571356">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602135789254">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602135571356" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602135789254" />
   </component>
 </project>
