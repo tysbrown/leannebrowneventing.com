@@ -57,15 +57,8 @@
 	</style>
 
 	<body>
-
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
-		</header>
 		<!--Navbar-->
-		<nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+		<nav class="navbar navbar-expand-lg navbar-dark fixed-top green darken-4">
 			<div class="container">
 				<a class="navbar-brand py-5" href="index.html" style="font-family: 'Great Vibes';">LBE</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
@@ -75,24 +68,13 @@
 				<!-- Collapsible content -->
 				<div class="collapse navbar-collapse" id="basicExampleNav">
 					<!-- Links -->
+					{% set navPages = collections.all | eleventyNavigation %}
 					<ul class="navbar-nav ml-auto">
-						<li class="nav-item ml-3">
-							<a class="nav-link montserrat small font-weight-bold" href="#">Home
-								<span class="sr-only">(current)</span>
-							</a>
+						{%- for entry in navPages %}
+						<li class="nav-tem ml-3">
+							<a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item" class="nav-link montserrat small font-weight-bold"{% endif %}>{{ entry.title }}</a>
 						</li>
-						<li class="nav-item ml-3">
-							<a class="nav-link montserrat small font-weight-bold" href="#">About</a>
-						</li>
-						<li class="nav-item ml-3">
-							<a class="nav-link montserrat small font-weight-bold" href="#">Services</a>
-						</li>
-						<li class="nav-item ml-3">
-							<a href="#" class="nav-link montserrat small font-weight-bold">Schedule</a>
-						</li>
-						<li class="nav-item ml-3">
-							<a href="#" class="nav-link montserrat small font-weight-bold">Contact</a>
-						</li>
+						{%- endfor %}
 					</ul>
 					<!-- Links -->
 				</div>
@@ -100,6 +82,8 @@
 			</div>
 		</nav>
 		<!--/.Navbar-->
+
+
 		<main>
 			{{ layoutContent | safe }}
 		</main>

@@ -2,5 +2,21 @@
 layout: layouts/base.njk
 section: home
 ---
-
+<!-- Parallax header -->
+<header class="parallax bg">
+    <div class="container h-100">
+        <div class="row align-items-center" style="height: 90vh;">
+            <div class="col-12 text-center">
+                <h1 class="h1-responsive hero-header wow fadeIn" data-wow-duration="5s" style="font-size:7rem;">Leanne Brown <span style="color: #4caf50">Eventing</span></h1>
+                <h1 class="lead text-white montserrat font-weight-bold letter-spacing-10 my-3 wow fadeInUp">Equestrian | Freelance Trainer and Coach</h1>
+            </div>
+        </div>
+        <div class="row align-items-center" style="height: 10vh;">
+            <div class="col-12 text-center text-white">
+                <a id="TOP" href="#TOP"><i class="fas fa-4x fa-arrow-alt-circle-down green-text wow bounce" data-wow-iteration="5"></i></a>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Parallax header end -->
 {{ layoutContent | safe }}
