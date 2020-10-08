@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Created about.njk&#10;&#10;Added CSS to make nav bar visible on pages other than home.">
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added cards to home page.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/form.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/form.njk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/layouts/about.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/about.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="5343000" />
+      <workItem from="1602134692316" duration="5969000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -212,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602140011601</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added cards to home page.">
+      <created>1602140104875</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602140104875</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,12 +250,13 @@
     <MESSAGE value="Hopefully finally fixed background image." />
     <MESSAGE value="Finally figured out that images are served from static/img and that files uploaded through the CMS live in that directory. Awesome." />
     <MESSAGE value="Created about.njk&#10;&#10;Added CSS to make nav bar visible on pages other than home." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created about.njk&#10;&#10;Added CSS to make nav bar visible on pages other than home." />
+    <MESSAGE value="Added cards to home page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added cards to home page." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602140013003">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602140106728">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602140013003" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602140106728" />
   </component>
 </project>
