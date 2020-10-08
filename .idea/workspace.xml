@@ -19,20 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page.">
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/mdb-favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/overlays/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/svg/arrow_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/img/svg/arrow_right.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/base.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/base.njk" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added images to img folder in assets.">
+      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +39,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_includes/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_includes/assets/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_includes/assets/img" />
       <recent name="$PROJECT_DIR$/_includes/assets" />
     </key>
   </component>
@@ -67,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="3771000" />
+      <workItem from="1602134692316" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -174,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602138273668</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page.">
+      <created>1602138524399</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602138524399</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added images to img folder in assets.">
+      <created>1602138633749</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602138633749</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,12 +203,13 @@
     <MESSAGE value="Added css and js to templateFormats" />
     <MESSAGE value="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine." />
     <MESSAGE value="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page." />
+    <MESSAGE value="Added images to img folder in assets." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added images to img folder in assets." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602138275189">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602138635421">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602138275189" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602138635421" />
   </component>
 </project>
