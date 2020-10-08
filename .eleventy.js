@@ -76,6 +76,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_includes/assets/css/addons");
   eleventyConfig.addPassthroughCopy("_includes/assets/css/modules");
 
+  return {
+    passthroughFileCopy: true
+  }
+
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");

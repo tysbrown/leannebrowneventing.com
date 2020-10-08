@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added njk template code to hopefully include the css files in the navbar.">
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added css and js to templateFormats">
       <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="1634000" />
+      <workItem from="1602134692316" duration="1809000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602136202724</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added css and js to templateFormats">
+      <created>1602136357907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602136357907</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,12 +115,13 @@
     <MESSAGE value="Added /css /css/addons and /css/modules to eleventyConfig.addPassthroughCopy" />
     <MESSAGE value="Changed from minified css files to regular." />
     <MESSAGE value="Added njk template code to hopefully include the css files in the navbar." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added njk template code to hopefully include the css files in the navbar." />
+    <MESSAGE value="Added css and js to templateFormats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added css and js to templateFormats" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602136204296">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602136359297">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602136204296" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602136359297" />
   </component>
 </project>
