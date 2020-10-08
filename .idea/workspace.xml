@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/components/footer.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/footer.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/components/head.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/head.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/components/nav.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/nav.njk" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added Bootstrap files and Nav Bar to test out site.">
+      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +49,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="688000" />
+      <workItem from="1602134692316" duration="1040000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
+      <created>1602135432771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602135432771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Bootstrap files and Nav Bar to test out site.">
+      <created>1602135569712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602135569712</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Bootstrap files and Nav Bar to test out site." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Bootstrap files and Nav Bar to test out site." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602135571356">
+      <screen x="0" y="23" width="3840" height="2062" />
+    </state>
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602135571356" />
   </component>
 </project>
