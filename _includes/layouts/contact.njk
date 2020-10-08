@@ -9,8 +9,21 @@ section: contact
     }
 </style>
 
-<h1>{{ title }}</h1>
+<h1 class="text-center mb-5" style="margin-top: 200px;">{{ title }}</h1>
 
-{{ layoutContent | safe }}
+<div class="container white z-depth-3 p-5 rounded">
+    <div class="row">
+        <div class="col-12">
+            {{ layoutContent | safe }}
+        </div>
+    </div>
+</div>
 
-{% include "components/form.njk" %}
+<div class="container white mt-5 z-depth-3 p-5 rounded">
+    <div class="row">
+        <div class="col-12">
+            {% include "components/form.njk" %}
+        </div>
+    </div>
+</div>
+

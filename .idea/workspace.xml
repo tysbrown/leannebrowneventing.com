@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Updated about page.">
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/services.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/services.njk" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Updated about page and services page.">
+      <change beforePath="$PROJECT_DIR$/_includes/layouts/contact.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/contact.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="8872000" />
+      <workItem from="1602134692316" duration="9016000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -304,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602143655058</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Updated about page and services page.">
+      <created>1602143734953</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1602143734953</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +348,8 @@
     <MESSAGE value="Moved images to static/img and changed filepaths to the correct one." />
     <MESSAGE value="Updated page.njk" />
     <MESSAGE value="Updated about page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated about page." />
+    <MESSAGE value="Updated about page and services page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated about page and services page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
@@ -352,9 +360,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374917" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602143656407">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602143736055">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602143656407" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602143736055" />
   </component>
 </project>
