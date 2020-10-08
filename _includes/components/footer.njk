@@ -1,6 +1,61 @@
+
 <footer>
-  <small>
-    This project is maintained by <a href="https://www.danurbanowicz.com">Dan Urbanowicz</a>.
-    Check out the <a href="{{ pkg.repository.url }}">GitHub repo</a>.
-  </small>
+<div class="container my-5 text-center">Copyright © Leanne Brown Eventing 2020</div>
 </footer>
+<!-- jQuery -->
+<script type="text/javascript" src="/_includes/assets/js/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="/_includes/assets/js/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="/_includes/assets/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="/_includes/assets/js/mdb.min.js"></script>
+<!-- Your custom scripts (optional) -->
+<script type="text/javascript">
+  $( document ).ready(function() {
+    new WOW().init();
+  });
+</script>
+<script type="text/javascript">
+  $( ".wow" ).addClass( "fadeIn" );
+</script>
+<script>
+  function validateForm() {
+    var name =  document.getElementById('firstname').value;
+    if (name == "") {
+      document.querySelector('.firstnamestatus').innerHTML = "Please enter your first name.";
+      return false;
+    }
+    var name =  document.getElementById('lastname').value;
+    if (name == "") {
+      document.querySelector('.lastnamestatus').innerHTML = "Please enter your last name.";
+      return false;
+    }
+    var email =  document.getElementById('email').value;
+    if (email == "") {
+      document.querySelector('.emailstatus').innerHTML = "Please enter your email address.";
+      return false;
+    } else {
+      var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+      if(!re.test(email)){
+        document.querySelector('.emailstatus').innerHTML = "Invalid email format.";
+        return false;
+      }
+    }
+    var email2 = document.getElementById('email2').value;
+    if (email2 != email) {
+      document.querySelector('.nomatch').innerHTML = "Email addresses must match.";
+      return false;
+    }
+    var subject =  document.getElementById('subject').value;
+    if (subject == "") {
+      document.querySelector('.subjectstatus').innerHTML = "Please enter a subject.";
+      return false;
+    }
+    var message =  document.getElementById('message').value;
+    if (message == "") {
+      document.querySelector('.messagestatus').innerHTML = "Please enter a message.";
+      return false;
+    }
+  }
+</script>
