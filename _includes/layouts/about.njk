@@ -1,7 +1,9 @@
 ---
 layout: layouts/base.njk
-section: contact
+section: about
 ---
+
+<h1>{{ title }}</h1>
 
 <style>
     .navbar:not(.top-nav-collapse) {
@@ -9,8 +11,4 @@ section: contact
     }
 </style>
 
-<h1>{{ title }}</h1>
-
 {{ layoutContent | safe }}
-
-{% include "components/form.njk" %}

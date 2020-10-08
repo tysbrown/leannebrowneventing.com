@@ -3,6 +3,12 @@ layout: layouts/base.njk
 section: blog
 permalink: /blog/index.html
 ---
+<style>
+    .navbar:not(.top-nav-collapse) {
+        background: #1b5e20 !important;
+    }
+</style>
+
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
