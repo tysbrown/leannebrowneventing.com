@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Hopefully finally fixed background image.">
-      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/base.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/base.njk" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Finally figured out that images are served from static/img and that files uploaded through the CMS live in that directory. Awesome.">
+      <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="4819000" />
+      <workItem from="1602134692316" duration="5066000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -192,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602139354917</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Finally figured out that images are served from static/img and that files uploaded through the CMS live in that directory. Awesome.">
+      <created>1602139599731</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1602139599731</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,12 +225,13 @@
     <MESSAGE value="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page." />
     <MESSAGE value="Added images to img folder in assets." />
     <MESSAGE value="Hopefully finally fixed background image." />
-    <option name="LAST_COMMIT_MESSAGE" value="Hopefully finally fixed background image." />
+    <MESSAGE value="Finally figured out that images are served from static/img and that files uploaded through the CMS live in that directory. Awesome." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally figured out that images are served from static/img and that files uploaded through the CMS live in that directory. Awesome." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602139356616">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602139601166">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602139356616" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602139601166" />
   </component>
 </project>
