@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Created services.njk">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services.md" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Fixed about page front matter. Added Services page.">
+      <change beforePath="$PROJECT_DIR$/_includes/layouts/base.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/base.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602134690549</updated>
-      <workItem from="1602134692316" duration="7493000" />
+      <workItem from="1602134692316" duration="7905000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -242,7 +240,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602141362051</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Fixed about page front matter. Added Services page.">
+      <created>1602142330652</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1602142330652</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Fixed about page front matter. Added Services page.">
+      <created>1602142471693</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1602142471693</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fixed about page front matter. Added Services page.">
+      <created>1602142542885</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1602142542885</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,12 +293,21 @@
     <MESSAGE value="Added cards to home page." />
     <MESSAGE value="Added permalink to about header.&#10;&#10;Updated contact form component" />
     <MESSAGE value="Created services.njk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created services.njk" />
+    <MESSAGE value="Fixed about page front matter. Added Services page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed about page front matter. Added Services page." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602141363489">
+    <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602141363489" />
+    <state x="0" y="218" key="MergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374857" />
+    <state x="600" y="822" key="MultipleFileMergeDialog" timestamp="1602142374917">
+      <screen x="0" y="23" width="3840" height="2062" />
+    </state>
+    <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374917" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602142544809">
+      <screen x="0" y="23" width="3840" height="2062" />
+    </state>
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142544809" />
   </component>
 </project>
