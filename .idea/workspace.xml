@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Updated about blog page.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Accidentally deleted the repo.">
+      <change beforePath="$PROJECT_DIR$/_includes/layouts/contact.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/contact.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
       <workItem from="1602134692316" duration="9793000" />
       <workItem from="1602182968109" duration="470000" />
       <workItem from="1602210943947" duration="518000" />
+      <workItem from="1602219845012" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -341,7 +342,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602144529009</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Accidentally deleted the repo.">
+      <created>1602219869118</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1602219869118</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Accidentally deleted the repo.">
+      <created>1602219982198</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1602219982198</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +396,8 @@
     <MESSAGE value="Updated about page." />
     <MESSAGE value="Updated about page and services page." />
     <MESSAGE value="Updated about blog page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated about blog page." />
+    <MESSAGE value="Accidentally deleted the repo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Accidentally deleted the repo." />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
