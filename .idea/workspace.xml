@@ -67,14 +67,7 @@
       <workItem from="1602182968109" duration="470000" />
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
-      <workItem from="1602315249007" duration="6014000" />
-    </task>
-    <task id="LOCAL-00016" summary="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page.">
-      <created>1602138524399</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1602138524399</updated>
+      <workItem from="1602315249007" duration="6188000" />
     </task>
     <task id="LOCAL-00017" summary="Added images to img folder in assets.">
       <created>1602138633749</created>
@@ -412,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602366823014</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Customizing CMS Dashboards">
+      <created>1602366939914</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1602366939915</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,9 +467,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602366825080">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602366941236">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602366825080" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602366941236" />
   </component>
 </project>
