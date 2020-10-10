@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Customizing CMS Dashboard">
-      <change afterPath="$PROJECT_DIR$/homepage/home.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servicespage/servicespage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,14 +69,7 @@
       <workItem from="1602182968109" duration="470000" />
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
-      <workItem from="1602315249007" duration="4516000" />
-    </task>
-    <task id="LOCAL-00011" summary="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine.">
-      <created>1602137400368</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1602137400368</updated>
+      <workItem from="1602315249007" duration="5164000" />
     </task>
     <task id="LOCAL-00012" summary="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine.">
       <created>1602137545837</created>
@@ -412,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602365309011</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Customizing CMS Dashboard">
+      <created>1602365423763</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1602365423763</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,9 +468,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602365310539">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602365425099">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365310539" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365425099" />
   </component>
 </project>
