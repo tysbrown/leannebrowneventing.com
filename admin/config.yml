@@ -92,5 +92,6 @@ collections:
         widget: "object"
         fields:
           - { label: "Image", name: "image", widget: "image" }
+          - { label: "Header", name: "header", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
