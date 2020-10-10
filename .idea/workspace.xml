@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Accidentally deleted the repo.">
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Changed njk tag">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <workItem from="1602182968109" duration="470000" />
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
-      <workItem from="1602315249007" duration="443000" />
+      <workItem from="1602315249007" duration="2132000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -374,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602315600701</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Changed njk tag">
+      <created>1602315711149</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1602315711149</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +423,8 @@
     <MESSAGE value="Updated about page and services page." />
     <MESSAGE value="Updated about blog page." />
     <MESSAGE value="Accidentally deleted the repo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Accidentally deleted the repo." />
+    <MESSAGE value="Changed njk tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed njk tag" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
@@ -426,9 +435,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374917" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602315602688">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602315712693">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602315602688" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602315712693" />
   </component>
 </project>
