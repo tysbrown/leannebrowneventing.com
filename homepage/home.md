@@ -6,4 +6,6 @@ permalink: /
 eleventyNavigation:
   key: Home
   order: 0
+image1: /static/img/leanneslide1.jpeg
 ---
+Testing the home page body.
