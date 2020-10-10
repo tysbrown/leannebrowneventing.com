@@ -65,7 +65,7 @@
       <workItem from="1602182968109" duration="470000" />
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
-      <workItem from="1602315249007" duration="2132000" />
+      <workItem from="1602315249007" duration="2225000" />
     </task>
     <task id="LOCAL-00001" summary="Added Bootstrap files and Nav Bar to test out site.">
       <created>1602135432771</created>
@@ -382,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602315711149</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Changed njk tag">
+      <created>1602362965228</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1602362965228</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,9 +442,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374917" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602315712693">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602362966961">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602315712693" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602362966961" />
   </component>
 </project>
