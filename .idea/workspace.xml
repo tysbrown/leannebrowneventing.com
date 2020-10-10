@@ -64,14 +64,7 @@
       <workItem from="1602182968109" duration="470000" />
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
-      <workItem from="1602315249007" duration="2970000" />
-    </task>
-    <task id="LOCAL-00002" summary="Added Bootstrap files and Nav Bar to test out site.">
-      <created>1602135569712</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1602135569712</updated>
+      <workItem from="1602315249007" duration="3130000" />
     </task>
     <task id="LOCAL-00003" summary="Added /css /css/addons and /css/modules to eleventyConfig.addPassthroughCopy">
       <created>1602135787734</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602363732996</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Changed njk tag">
+      <created>1602363829643</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1602363829644</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,9 +462,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374917" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602363734786">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602363831415">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602363734786" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602363831415" />
   </component>
 </project>
