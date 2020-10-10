@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Customizing CMS Dashboard" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Customizing CMS Dashboards">
+      <change beforePath="$PROJECT_DIR$/servicespage/servicespage.md" beforeDir="false" afterPath="$PROJECT_DIR$/servicespage/servicespage.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,14 +67,7 @@
       <workItem from="1602182968109" duration="470000" />
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
-      <workItem from="1602315249007" duration="5299000" />
-    </task>
-    <task id="LOCAL-00013" summary="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine.">
-      <created>1602137899050</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1602137899050</updated>
+      <workItem from="1602315249007" duration="5337000" />
     </task>
     <task id="LOCAL-00014" summary="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine.">
       <created>1602138015164</created>
@@ -410,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602366082748</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Customizing CMS Dashboards">
+      <created>1602366218469</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1602366218469</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,7 +455,8 @@
     <MESSAGE value="Accidentally deleted the repo." />
     <MESSAGE value="Changed njk tag" />
     <MESSAGE value="Customizing CMS Dashboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customizing CMS Dashboard" />
+    <MESSAGE value="Customizing CMS Dashboards" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customizing CMS Dashboards" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
@@ -464,9 +467,9 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602366084536">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602366226420">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602366084536" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602366226420" />
   </component>
 </project>
