@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added logo.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/layouts/base.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/base.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +47,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/homepage" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/_includes/assets/img" />
       <recent name="$PROJECT_DIR$/_includes/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homepage" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,14 +69,7 @@
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
       <workItem from="1602315249007" duration="8966000" />
-      <workItem from="1602440997632" duration="206000" />
-    </task>
-    <task id="LOCAL-00023" summary="Added cards to home page.">
-      <created>1602140104875</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1602140104875</updated>
+      <workItem from="1602440997632" duration="634000" />
     </task>
     <task id="LOCAL-00024" summary="Added permalink to about header.&#10;&#10;Updated contact form component">
       <created>1602140786839</created>
@@ -413,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602441080266</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Added logo.">
+      <created>1602441328099</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1602441328099</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,6 +461,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added logo." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602441301890">
+      <screen x="0" y="23" width="3840" height="2062" />
+    </state>
+    <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602441301890" />
     <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
@@ -468,10 +473,10 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="807" key="Vcs.Push.Dialog.v2" timestamp="1602441082150">
-      <screen x="0" y="0" width="3840" height="2160" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602441329832">
+      <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602369585128" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602441329832" />
   </component>
 </project>
