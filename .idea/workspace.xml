@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Added logo.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing up the layout.">
       <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,14 +68,7 @@
       <workItem from="1602210943947" duration="518000" />
       <workItem from="1602219845012" duration="639000" />
       <workItem from="1602315249007" duration="8966000" />
-      <workItem from="1602440997632" duration="1464000" />
-    </task>
-    <task id="LOCAL-00028" summary="Fixed about page front matter. Added Services page.">
-      <created>1602142471693</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1602142471693</updated>
+      <workItem from="1602440997632" duration="1751000" />
     </task>
     <task id="LOCAL-00029" summary="Fixed about page front matter. Added Services page.">
       <created>1602142542885</created>
@@ -414,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602442546870</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Polishing up the layout.">
+      <created>1602442750131</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1602442750131</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +432,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added /css /css/addons and /css/modules to eleventyConfig.addPassthroughCopy" />
     <MESSAGE value="Changed from minified css files to regular." />
     <MESSAGE value="Added njk template code to hopefully include the css files in the navbar." />
     <MESSAGE value="Added css and js to templateFormats" />
@@ -458,7 +456,8 @@
     <MESSAGE value="Customizing CMS Dashboard" />
     <MESSAGE value="Customizing CMS Dashboards" />
     <MESSAGE value="Added logo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added logo." />
+    <MESSAGE value="Polishing up the layout." />
+    <option name="LAST_COMMIT_MESSAGE" value="Polishing up the layout." />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602441301890">
@@ -473,10 +472,10 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602442548488">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602442752051">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602442548488" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602442752051" />
   </component>
 </project>
