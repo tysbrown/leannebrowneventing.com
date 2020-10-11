@@ -27,34 +27,11 @@ section: home
         </div>
     </div>
     <div class="row">
-        <div class="col-12">
-            <div class="float-left mr-4 mb-3"><img src="{{ image1 }}" width="400px;"></div>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ipsum sed dolor eleifend rutrum. Donec
-                euismod, justo ut laoreet lobortis, ligula magna luctus eros, id aliquam eros lacus et turpis. Nam sit amet lacinia
-                ante. Donec at dapibus ligula, mollis varius mi. Suspendisse sit amet elementum nibh. Maecenas euismod lorem id
-                pulvinar sollicitudin. Duis sed nisl in enim gravida placerat ac tempus enim. Aliquam erat volutpat. In gravida
-                eleifend nibh bibendum lacinia. Nunc nec neque at turpis porttitor mattis vitae at eros. Vivamus consequat velit
-                laoreet nulla aliquet aliquam. Nam condimentum felis id ipsum accumsan auctor. Duis consectetur faucibus sem, finibus
-                sollicitudin nulla ultrices vitae. Cras sed ligula massa. Etiam placerat ultricies interdum.
-            </p>
-            <p>
-                Phasellus malesuada nulla nec ipsum rutrum commodo. Vivamus vitae purus ut orci tristique molestie. Integer sagittis
-                turpis vel dolor convallis cursus. Etiam eu gravida urna. Phasellus tortor urna, gravida quis ligula eu, sollicitudin
-                euismod nibh. Morbi in urna vel sapien consequat bibendum non id augue. Nunc lacinia vitae nulla sit amet ornare.
-                Mauris elementum congue sem nec viverra. Phasellus imperdiet varius mauris, id finibus dui luctus nec. Duis malesuada
-                turpis in maximus tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in libero at neque dapibus
-                sodales quis sit amet tellus. Vivamus id ultricies lacus.
-            </p>
-            <p>
-                Cras ac rhoncus quam, vel ultrices leo. Praesent a elementum ex, id molestie nisi. Integer aliquet imperdiet purus eu
-                vestibulum. Sed pellentesque ex non pulvinar eleifend. Suspendisse eu enim sit amet odio consequat sodales. Phasellus
-                at leo scelerisque, sollicitudin libero quis, euismod metus. Proin vestibulum diam vitae risus consectetur, eu eleifend
-                lectus efficitur. Mauris pellentesque volutpat massa, ut mollis dolor varius quis. Fusce bibendum vitae nisl nec
-                pretium. Cras sem eros, fermentum ut massa nec, fringilla commodo est. Morbi et venenatis dui. Etiam eu lacus vitae
-                quam congue dapibus et quis urna.
-            </p>
-            {{ layoutContent | safe }}
+        <div class="col-md-6 py-5">
+            <img src="{{ image1 }}" width="100%">
+        </div>
+        <div class="col-md-6 py-5">
+            {{ body }}
         </div>
     </div>
     <div class="row my-5">
@@ -66,7 +43,7 @@ section: home
 <!-- SERVICES -->
     <div class="row">
         <div class="col-12">
-            <h1 class="text-center font-weight-bolder montserrat letter-spacing-5 my-5">Freelance Services</h1>
+            <h1 class="h1-responsive text-center font-weight-bolder montserrat letter-spacing-5 my-5">Freelance Services</h1>
             <div class="row">
                 <div class="d-flex flex-xl-row flex-lg-row flex-md-row flex-sm-column flex-column">
                     <div class="flex-1 px-5 text-center">
@@ -95,7 +72,7 @@ section: home
 <!-- TESTIMONIALS -->
     <div class="row">
         <div class="col-12">
-            <h1 class="text-center font-weight-bolder montserrat letter-spacing-5 my-5">Testimonials</h1>
+            <h1 class="h1-responsive text-center font-weight-bolder montserrat letter-spacing-5 my-5">Testimonials</h1>
             <div id="testimonialcarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-interval="20000">
