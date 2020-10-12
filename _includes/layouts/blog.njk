@@ -4,8 +4,7 @@ section: blog
 permalink: /blog/index.html
 ---
 
-{% set postslist = collections.post %}
-{% include "components/postslist.njk" %}
+
 <style>
     .navbar:not(.top-nav-collapse) {
         background: #1b5e20 !important;
@@ -24,6 +23,8 @@ permalink: /blog/index.html
     <div class="row">
         <div class="col-12">
             {{ layoutContent | safe }}
+            {% set postslist = collections.post %}
+            {% include "components/postslist.njk" %}
         </div>
     </div>
 </div>
