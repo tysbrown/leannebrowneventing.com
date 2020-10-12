@@ -33,10 +33,6 @@ html {
     margin: 100px 0 100px 0;
 }
 
-.font-size-2 {
-    font-size: 2rem;
-}
-
 .top-nav-collapse {                                   /* Is concatenated onto .scrolling-navbar on scroll? Idk, it works tho. */
     background-color: #1b5e20 !important;
 }
@@ -102,34 +98,6 @@ html {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
-
-.responsive-header {
-    font-size: 100%
-}
-
-@media (min-width: 576px) {
-    .responsive-header {
-        font-size: 300%
-    }
-}
-
-@media (min-width: 768px) {
-    .responsive-header {
-        font-size: 450%
-    }
-}
-
-@media (min-width: 992px) {
-    .responsive-header {
-        font-size: 600%
-    }
-}
-
-@media (min-width: 1200px) {
-    .responsive-header {
-        font-size: 700%;
-    }
 }
 
 
