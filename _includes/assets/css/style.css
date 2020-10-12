@@ -124,16 +124,16 @@ html {
 }
 
 .responsive-header {
-    font-size: 300%
+    font-size: 200%
 }
 
 .responsive-subheader {
-    font-size: 100%;
+    font-size: 80%;
 }
 
 @media (min-width: 576px) {
     .responsive-header {
-        font-size: 350%
+        font-size: 300%
     }
 
     .responsive-subheader {
