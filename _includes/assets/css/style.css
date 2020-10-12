@@ -101,7 +101,7 @@ html {
 }
 
 .responsive-header {
-    font-size: 100%
+    font-size: 300%
 }
 
 @media (min-width: 576px) {
