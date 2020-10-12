@@ -37,13 +37,6 @@ html {
     font-size: 2rem;
 }
 
-.hero-header {
-    font-family: 'Great Vibes', cursive;
-    letter-spacing: 5px;
-    text-transform: none;
-    color: #fff;
-}
-
 .top-nav-collapse {                                   /* Is concatenated onto .scrolling-navbar on scroll? Idk, it works tho. */
     background-color: #1b5e20 !important;
 }
@@ -112,20 +105,12 @@ html {
 }
 
 .responsive-header {
-    font-size: 200%
-}
-
-.responsive-subheader {
-    font-size: 80%;
+    font-size: 100%
 }
 
 @media (min-width: 576px) {
     .responsive-header {
         font-size: 300%
-    }
-
-    .responsive-subheader {
-        font-size: 125%;
     }
 }
 
@@ -133,29 +118,17 @@ html {
     .responsive-header {
         font-size: 450%
     }
-
-    .responsive-subheader {
-        font-size: 150%;
-    }
 }
 
 @media (min-width: 992px) {
     .responsive-header {
         font-size: 600%
     }
-
-    .responsive-subheader {
-        font-size: 170%;
-    }
 }
 
 @media (min-width: 1200px) {
     .responsive-header {
         font-size: 700%;
-    }
-
-    .responsive-subheader {
-        font-size: 200%;
     }
 }
 
