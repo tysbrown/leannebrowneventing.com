@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 section: contact
 ---
-{% include "components/form.njk" %}
+
 <style>
     .navbar:not(.top-nav-collapse) {
         background: #1b5e20 !important;
@@ -22,6 +22,7 @@ section: contact
     <div class="row">
         <div class="col-12">
             {{ layoutContent | safe }}
+            {% include "components/form.njk" %}
         </div>
     </div>
 </div>
