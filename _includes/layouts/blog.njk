@@ -3,19 +3,27 @@ layout: layouts/base.njk
 section: blog
 permalink: /blog/index.html
 ---
+
+{% set postslist = collections.post %}
+{% include "components/postslist.njk" %}
 <style>
     .navbar:not(.top-nav-collapse) {
         background: #1b5e20 !important;
     }
 </style>
-<div class="container white z-depth-3 p-5 rounded">
+<header class="pageparallax">
+    <div class="container page-header">
+        <div class="row align-items-center">
+            <div class="col-12 text-center">
+                <h1 class="h1-responsive hero-header wow fadeIn" data-wow-duration="5s" style="font-size:7rem;line-height:600px;">Leanne Brown Eventing <span style="color: #4caf50">Blog</span></h1>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="container white z-depth-3 p-5 rounded" style="margin-top:-100px;">
     <div class="row">
         <div class="col-12">
             {{ layoutContent | safe }}
         </div>
     </div>
 </div>
-
-
-{% set postslist = collections.post %}
-{% include "components/postslist.njk" %}

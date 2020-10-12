@@ -3,28 +3,26 @@ layout: layouts/base.njk
 section: services
 permalink: /services/index.html
 ---
-
-
-<h1 class="text-center mb-5" style="margin-top: 200px;">{{ title }}</h1>
-
 <style>
     .navbar:not(.top-nav-collapse) {
         background: #1b5e20 !important;
     }
 </style>
-
-<div class="container white z-depth-3 p-5 rounded">
-    <div class="row">
-        <div class="col-12">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6"><img src="{{ menuitem1.image }}" width="100%;"></div>
-                    <div class="col-md-6">
-                        <h3 class="mb-5">{{ menuitem1.header }}</h3>
-                        <p>{{ menuitem1.body }}</p>
-                    </div>
-                </div>
+<header class="pageparallax">
+    <div class="container page-header">
+        <div class="row align-items-center">
+            <div class="col-12 text-center">
+                <h1 class="h1-responsive hero-header wow fadeIn" data-wow-duration="5s" style="font-size:7rem;line-height:600px;">Leanne Brown Eventing <span style="color: #4caf50">Blog</span></h1>
             </div>
+        </div>
+    </div>
+</header>
+<div class="container white z-depth-3 p-5 rounded" style="margin-top:-100px;">
+    <div class="row">
+        <div class="col-md-6"><img src="{{ menuitem1.image }}" width="100%;"></div>
+        <div class="col-md-6">
+            <h3 class="mb-5">{{ menuitem1.header }}</h3>
+            <p>{{ menuitem1.body }}</p>
         </div>
     </div>
 </div>
