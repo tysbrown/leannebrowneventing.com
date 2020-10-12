@@ -127,22 +127,44 @@ html {
     font-size: 100%
 }
 
+.responsive-subheader {
+    font-size: 100%;
+}
+
 @media (min-width: 576px) {
     .responsive-header {
-        font-size: 240%
+        font-size: 200%
+    }
+
+    .responsive-subheader {
+        font-size: 125%;
     }
 
 @media (min-width: 768px) {
     .responsive-header {
-        font-size: 300%
+        font-size: 450%
+    }
+
+    .responsive-subheader {
+        font-size: 150%;
     }
 
 @media (min-width: 992px) {
     .responsive-header {
-        font-size: 400%
+        font-size: 600%
+    }
+
+    .responsive-subheader {
+        font-size: 170%;
     }
 
 @media (min-width: 1200px) {
     .responsive-header {
-        font-size: 500%
+        font-size: 700%
     }
+
+    .responsive-subheader {
+        font-size: 200%;
+    }
+
+
