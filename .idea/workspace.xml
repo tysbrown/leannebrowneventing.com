@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/about.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/about.njk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/layouts/blog.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/blog.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/contact.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/contact.njk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/layouts/services.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/services.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,14 +72,7 @@
       <workItem from="1602315249007" duration="8966000" />
       <workItem from="1602440997632" duration="21026000" />
       <workItem from="1602466907029" duration="9127000" />
-      <workItem from="1602519895114" duration="3275000" />
-    </task>
-    <task id="LOCAL-00229" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
-      <created>1602470986092</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1602470986092</updated>
+      <workItem from="1602519895114" duration="3371000" />
     </task>
     <task id="LOCAL-00230" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
       <created>1602471157655</created>
@@ -419,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602523732148</updated>
     </task>
-    <option name="localTasksCounter" value="278" />
+    <task id="LOCAL-00278" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
+      <created>1602524035050</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1602524035050</updated>
+    </task>
+    <option name="localTasksCounter" value="279" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,10 +476,10 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602523733559">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602524036226">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602523733559" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602524036226" />
   </component>
 </project>
