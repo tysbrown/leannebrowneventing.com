@@ -16,8 +16,8 @@
 					{% set navPages = collections.all | eleventyNavigation %}
 					<ul class="navbar-nav ml-auto">
 						{%- for entry in navPages %}
-						<li class="nav-item ml-3 active">
-							<a href="{{ entry.url | url }}" class="nav-link text-uppercase small font-weight-bold" {% if entry.url == page.url %} data-current="current item" {% endif %}>{{ entry.title }} <span class="sr-only">(current)</span></a>
+						<li class="nav-item ml-3">
+							<a href="{{ entry.url | url }}" class="nav-link text-uppercase small font-weight-bold active" {% if entry.url == page.url %} data-current="current item" {% endif %}>{{ entry.title }} <span class="sr-only">(current)</span></a>
 						</li>
 						{%- endfor %}
 					</ul>
