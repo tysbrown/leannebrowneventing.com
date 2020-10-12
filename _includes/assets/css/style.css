@@ -3,7 +3,7 @@ html {
 }
 .parallax {
     height: 110vh;
-    background-image: url('lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
     background-blend-mode: overlay;
     background-attachment: fixed;
     background-size: cover;
@@ -15,12 +15,25 @@ html {
     font-family: 'Montserrat', sans-serif;
 }
 
+.greatvibes {
+    font-family: 'Great Vibes', cursive;
+}
+
 .letter-spacing-5 {
     letter-spacing: 5px;
 }
 
 .letter-spacing-10 {
     letter-spacing: 10px;
+}
+
+.subheadingsize {
+    font-size: 5rem;
+    margin: 200px 0 100px 0;
+}
+
+.font-size-2 {
+    font-size: 2rem;
 }
 
 .hero-header {
@@ -47,4 +60,52 @@ html {
 
 .wow {
     visbility: hidden;
+}
+
+.cardbg1 {
+    background-image: url('/static/img/card1.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cardbg1:hover {
+    background-image: url('/static/img/card1.png'), linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0));
+    background-blend-mode: overlay;
+}
+
+.cardbg2 {
+    background-image: url('/static/img/card2.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cardbg2:hover {
+    background-image: url('/static/img/card2.png'), linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0));
+    background-blend-mode: overlay;
+}
+
+.cardbg3 {
+    background-image: url('/static/img/card3.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cardbg3:hover {
+    background-image: url('/static/img/card3.png'), linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0));
+    background-blend-mode: overlay;
+}
+
+.transbg {
+    background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
