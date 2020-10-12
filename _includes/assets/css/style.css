@@ -32,14 +32,6 @@ html {
     font-family: 'Great Vibes', cursive;
 }
 
-.letter-spacing-5 {
-    letter-spacing: 5px;
-}
-
-.letter-spacing-10 {
-    letter-spacing: 10px;
-}
-
 .subheadingsize {
     font-size: 5rem;
     margin: 100px 0 100px 0;
