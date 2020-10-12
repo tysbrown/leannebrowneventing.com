@@ -122,3 +122,27 @@ html {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.responsive-header {
+    font-size: 100%
+}
+
+@media (min-width: 576px) {
+    .responsive-header {
+        font-size: 240%
+    }
+
+@media (min-width: 768px) {
+    .responsive-header {
+        font-size: 300%
+    }
+
+@media (min-width: 992px) {
+    .responsive-header {
+        font-size: 400%
+    }
+
+@media (min-width: 1200px) {
+    .responsive-header {
+        font-size: 500%
+    }
