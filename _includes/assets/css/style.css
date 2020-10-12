@@ -145,7 +145,7 @@ html {
         background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
         background-blend-mode: overlay;
         background-attachment: unset;
-        background-size: contain;
+        background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
     }
@@ -154,7 +154,7 @@ html {
         background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
         background-blend-mode: overlay;
         background-attachment: unset;
-        background-size: contain;
+        background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
     }

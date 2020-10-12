@@ -70,14 +70,7 @@
       <workItem from="1602219845012" duration="639000" />
       <workItem from="1602315249007" duration="8966000" />
       <workItem from="1602440997632" duration="21026000" />
-      <workItem from="1602466907029" duration="5906000" />
-    </task>
-    <task id="LOCAL-00187" summary="Polishing up the layout.">
-      <created>1602462432600</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1602462432601</updated>
+      <workItem from="1602466907029" duration="6239000" />
     </task>
     <task id="LOCAL-00188" summary="Polishing up the layout.">
       <created>1602462612528</created>
@@ -415,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602472363664</updated>
     </task>
-    <option name="localTasksCounter" value="236" />
+    <task id="LOCAL-00236" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
+      <created>1602474245248</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1602474245249</updated>
+    </task>
+    <option name="localTasksCounter" value="237" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,10 +474,10 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602472364700">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602474246633">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602472364700" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602474246633" />
   </component>
 </project>
