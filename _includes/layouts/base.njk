@@ -1,14 +1,6 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
-
 	{% include "components/head.njk" %}
-
-	<style>
-
-
-
-	</style>
-
 	<body>
 		<!--Navbar-->
 		<nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
@@ -35,14 +27,9 @@
 			</div>
 		</nav>
 		<!--/.Navbar-->
-
-
 		<main>
 			{{ layoutContent | safe }}
 		</main>
-
 		{% include "components/footer.njk" %}
-
 	</body>
-
 </html>

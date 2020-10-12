@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing up the layout.">
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/components/head.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/head.njk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/layouts/base.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/base.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,14 +71,7 @@
       <workItem from="1602219845012" duration="639000" />
       <workItem from="1602315249007" duration="8966000" />
       <workItem from="1602440997632" duration="21026000" />
-      <workItem from="1602466907029" duration="122000" />
-    </task>
-    <task id="LOCAL-00165" summary="Polishing up the layout.">
-      <created>1602458912022</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1602458912022</updated>
+      <workItem from="1602466907029" duration="354000" />
     </task>
     <task id="LOCAL-00166" summary="Polishing up the layout.">
       <created>1602458971722</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602465471115</updated>
     </task>
-    <option name="localTasksCounter" value="214" />
+    <task id="LOCAL-00214" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
+      <created>1602467102704</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1602467102704</updated>
+    </task>
+    <option name="localTasksCounter" value="215" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +435,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changed from minified css files to regular." />
     <MESSAGE value="Added njk template code to hopefully include the css files in the navbar." />
     <MESSAGE value="Added css and js to templateFormats" />
     <MESSAGE value="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine." />
@@ -460,7 +459,8 @@
     <MESSAGE value="Customizing CMS Dashboards" />
     <MESSAGE value="Added logo." />
     <MESSAGE value="Polishing up the layout." />
-    <option name="LAST_COMMIT_MESSAGE" value="Polishing up the layout." />
+    <MESSAGE value="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages." />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602441301890">
@@ -475,10 +475,10 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602465473832">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602467105484">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602465473832" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602467105484" />
   </component>
 </project>
