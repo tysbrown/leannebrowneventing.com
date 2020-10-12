@@ -43,7 +43,6 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Image1", name: "image1", widget: "image" }
   # Authors
   - name: "authors"
     label: "Author"
