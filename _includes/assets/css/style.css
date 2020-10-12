@@ -140,26 +140,6 @@ html {
         font-size: 125%;
     }
 
-    .parallax {
-        height: 110vh;
-        background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
-        background-blend-mode: overlay;
-        background-attachment: unset;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-
-    .transbg {
-        background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
-        background-blend-mode: overlay;
-        background-attachment: unset;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-
-
     @media (min-width: 768px) {
     .responsive-header {
         font-size: 450%
