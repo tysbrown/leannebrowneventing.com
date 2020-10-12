@@ -56,20 +56,7 @@ html {
     color: #fff;
 }
 
-.top-nav-collapse {                                   /* Is concatenated onto .scrolling-navbar on scroll? Idk, it works tho. */
-    background-color: #1b5e20 !important;
-}
 
-.navbar:not(.top-nav-collapse) {
-    background: transparent !important;
-    box-shadow: none;
-}
-
-@media (max-width: 991px) {
-    .navbar:not(.top-nav-collapse) {
-        background: #1b5e20 !important;
-    }
-}
 
 .wow {
     visbility: hidden;
