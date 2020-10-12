@@ -14,10 +14,14 @@ html {
 .pageparallax {
     background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
     background-blend-mode: overlay;
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+.page-header {
+    width: 100vw;
+    height: 500px;
 }
 
 .montserrat {
