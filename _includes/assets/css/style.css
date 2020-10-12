@@ -100,4 +100,32 @@ html {
     background-repeat: no-repeat;
 }
 
+.responsive-header {
+    font-size: 100%
+}
+
+@media (min-width: 576px) {
+    .responsive-header {
+        font-size: 300%
+    }
+}
+
+@media (min-width: 768px) {
+    .responsive-header {
+        font-size: 450%
+    }
+}
+
+@media (min-width: 992px) {
+    .responsive-header {
+        font-size: 600%
+    }
+}
+
+@media (min-width: 1200px) {
+    .responsive-header {
+        font-size: 700%;
+    }
+}
+
 
