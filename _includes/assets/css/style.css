@@ -30,7 +30,7 @@ html {
 
 .subheadingsize {
     font-size: 5rem;
-    margin: 100px 0 100px 0;
+    margin: 50px 0 50px 0;
 }
 
 .top-nav-collapse {                                   /* Is concatenated onto .scrolling-navbar on scroll? Idk, it works tho. */
