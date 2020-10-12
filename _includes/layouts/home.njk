@@ -31,9 +31,23 @@ section: home
             <img src="{{ image1 }}" width="100%" class="z-depth-5">
         </div>
         <div class="col-md-6 d-flex flex-column justify-content-center mt-xl-0 mt-lg-0 mt-md-5 mt-sm-5 mt-5 wow fadeInRight">
-            <h1 class="h1-responsive font-weight-bold mb-5 green-text">About Me</h1>
-            {{ layoutContent | safe }}
-            <div class="btn-group-sm mt-4"><button type="button" class="btn btn-dark-green" href="about.html">More Info</button></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="h1-responsive font-weight-bold mb-5 green-text">About Me</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        {{ layoutContent | safe }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-dark-green" href="about.html">More Info</button>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
