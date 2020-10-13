@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing up the entire site.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing.">
       <change beforePath="$PROJECT_DIR$/_includes/components/footer.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/footer.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,7 @@
       <workItem from="1602530844757" duration="600000" />
       <workItem from="1602532626306" duration="3173000" />
       <workItem from="1602539730917" duration="13437000" />
-      <workItem from="1602608604631" duration="3343000" />
-    </task>
-    <task id="LOCAL-00356" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
-      <created>1602553227273</created>
-      <option name="number" value="00356" />
-      <option name="presentableId" value="LOCAL-00356" />
-      <option name="project" value="LOCAL" />
-      <updated>1602553227273</updated>
+      <workItem from="1602608604631" duration="3428000" />
     </task>
     <task id="LOCAL-00357" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
       <created>1602555199598</created>
@@ -427,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602613049199</updated>
     </task>
-    <option name="localTasksCounter" value="405" />
+    <task id="LOCAL-00405" summary="Polishing.">
+      <created>1602613114768</created>
+      <option name="number" value="00405" />
+      <option name="presentableId" value="LOCAL-00405" />
+      <option name="project" value="LOCAL" />
+      <updated>1602613114768</updated>
+    </task>
+    <option name="localTasksCounter" value="406" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +445,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added css and js to templateFormats" />
     <MESSAGE value="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine." />
     <MESSAGE value="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page." />
     <MESSAGE value="Added images to img folder in assets." />
@@ -471,7 +469,8 @@
     <MESSAGE value="Polishing up the layout." />
     <MESSAGE value="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages." />
     <MESSAGE value="Polishing up the entire site." />
-    <option name="LAST_COMMIT_MESSAGE" value="Polishing up the entire site." />
+    <MESSAGE value="Polishing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Polishing." />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602441301890">
@@ -486,11 +485,11 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602613050173">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602613115707">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602613050173" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602613115707" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602562619321">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
