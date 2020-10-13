@@ -1,10 +1,10 @@
 ---
 layout: /layouts/home.njk
-title: Home
+title: Homepage
 date: 2020-10-10T07:51:30.312Z
 permalink: /
 eleventyNavigation:
-  key: Home
+  key: Homepage
   order: 0
 image1: /static/img/about.jpeg
 testimonials:
