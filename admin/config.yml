@@ -54,9 +54,9 @@ collections:
       - {label: "Email", name: "email", widget: "string"}
       - {label: "GitHub", name: "github", widget: "string"}
   # Home Page
-  - name: "home"
+  - name: "homepage"
     label: "Home"
-    folder: "home"
+    folder: "homepage"
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
