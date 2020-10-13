@@ -1,6 +1,4 @@
-<section class="container white mt-5 z-depth-3 p-5 rounded">
-	<div class="row">
-		<div class="col-12">
+
 			{% for post in postslist | reverse %}
 			{% if post.url == url %} data-current="current item"{% endif %}>
 			<h3>
@@ -33,8 +31,5 @@
 			</p>
 			{% endif %}
 			{% endfor %}
-		</div>
-	</div>
-</section>
 
 
