@@ -1,6 +1,6 @@
 ---
 layout: /layouts/home.njk
-title: Homepage
+title: Home
 date: 2020-10-10T07:51:30.312Z
 permalink: /
 eleventyNavigation:
