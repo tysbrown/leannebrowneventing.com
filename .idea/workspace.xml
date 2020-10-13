@@ -73,14 +73,7 @@
       <workItem from="1602519895114" duration="9186000" />
       <workItem from="1602530844757" duration="600000" />
       <workItem from="1602532626306" duration="3173000" />
-      <workItem from="1602539730917" duration="2533000" />
-    </task>
-    <task id="LOCAL-00298" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
-      <created>1602528118007</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
-      <option name="project" value="LOCAL" />
-      <updated>1602528118007</updated>
+      <workItem from="1602539730917" duration="2833000" />
     </task>
     <task id="LOCAL-00299" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
       <created>1602528591124</created>
@@ -418,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602551818178</updated>
     </task>
-    <option name="localTasksCounter" value="347" />
+    <task id="LOCAL-00347" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
+      <created>1602551839175</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
+      <option name="project" value="LOCAL" />
+      <updated>1602551839175</updated>
+    </task>
+    <option name="localTasksCounter" value="348" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,11 +477,11 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602551819194">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602551840723">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602551819194" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602551840723" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602532679489">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
