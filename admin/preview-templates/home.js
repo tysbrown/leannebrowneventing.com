@@ -9,6 +9,7 @@ const Home = createClass({
 
         return html`
       <main>
+      <h1>${entry.getIn(["data", "title"], null)}</h1>
       <section class="container">
         <div class="row">
             <div class="col-lg-12">
