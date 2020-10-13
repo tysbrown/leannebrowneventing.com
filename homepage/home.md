@@ -4,7 +4,7 @@ title: Home
 date: 2020-10-10T07:51:30.312Z
 permalink: /
 eleventyNavigation:
-  key: Homepage
+  key: Home
   order: 0
 image1: /static/img/about.jpeg
 testimonials:
