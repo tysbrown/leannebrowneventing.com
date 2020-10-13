@@ -55,7 +55,7 @@ collections:
       - {label: "GitHub", name: "github", widget: "string"}
   # Home Page
   - name: "homepage"
-    label: "Home Page"
+    label: "Home"
     folder: "homepage"
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
@@ -71,9 +71,22 @@ collections:
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Image1", name: "image1", widget: "image" }
+      - label: "Testimonials"
+        name: "testimonials"
+        widget: "object"
+        fields:
+          - { label: "Client's Photo", name: "image1", widget: "image" }
+          - { label: "Client's Name", name: "name1", widget: "string" }
+          - { label: "Testimonial", name: "body1", widget: "markdown" }
+          - { label: "Client's Photo", name: "image2", widget: "image" }
+          - { label: "Client's Name", name: "name2", widget: "string" }
+          - { label: "Testimonial", name: "body2", widget: "markdown" }
+          - { label: "Client's Photo", name: "image3", widget: "image" }
+          - { label: "Client's Name", name: "name3", widget: "string" }
+          - { label: "Testimonial", name: "body3", widget: "markdown" }
   # Services Page
   - name: "servicespage"
-    label: "Services Page"
+    label: "Services"
     folder: "servicespage"
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
