@@ -2,6 +2,12 @@
 layout: layouts/base.njk
 section: post
 ---
+<style>
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
+</style>
 <header class="pageparallax">
   <div class="container page-header">
     <div class="row align-items-center">
@@ -14,7 +20,7 @@ section: post
 <div class="container" style="margin-top:-100px;">
   <div class="row">
     <div class="col-lg-12 green darken-2 rounded-top p-3 mx-xl-0 mx-lg-0 mx-md-3 mx-sm-3 mx-3">
-      <a href="/home/">Home</a> -> <a href="/blog/">Blog Index</a> -> {{ title }}
+      <a href="/home/" class="black-text">Home</a>  ->  <a href="/blog/" class="black-text">Blog Index</a>  ->  {{ title }}
     </div>
   </div>
   <div class="row">
@@ -38,12 +44,6 @@ section: post
         {% endfor %}
       </p>
       {% endif %}
-
-
-
-      <nav>
-        <a href="{{ '/blog/' | url }}">← Blog index</a>
-      </nav>
     </div>
   </div>
 </div>
