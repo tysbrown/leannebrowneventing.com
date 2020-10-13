@@ -5,7 +5,6 @@ html {
     height: 110vh;
     background-image: url('/static/img/lbebackground.png'), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
     background-blend-mode: overlay;
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -114,17 +113,29 @@ html {
     .responsive-header {
         font-size: 450%
     }
+
+    .parallax {
+        background-attachment: fixed;
+    }
 }
 
 @media (min-width: 992px) {
     .responsive-header {
         font-size: 600%
     }
+
+    .parallax {
+        background-attachment: fixed;
+    }
 }
 
 @media (min-width: 1200px) {
     .responsive-header {
         font-size: 700%;
+    }
+
+    .parallax {
+        background-attachment: fixed;
     }
 }
 
