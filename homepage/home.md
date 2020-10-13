@@ -24,7 +24,7 @@ testimonials:
     accumsan justo ut ipsum venenatis, pretium ornare mauris gravida. Cras
     tincidunt lectus est, eget faucibus leo fringilla eu. Quisque tempor diam
     vel est luctus, vel dictum risus convallis. Suspendisse potenti.
-  image1: /static/img/profilephoto1.png
+  image1: /static/img/card1.png
   image2: /static/img/upclose.png
   image3: /static/img/leanneslide1.jpeg
 ---
