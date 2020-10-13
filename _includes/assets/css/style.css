@@ -61,7 +61,7 @@ html {
 }
 
 .cardbg1:hover {
-    background-image: url('/static/img/card1.png'), linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0));
+    background-image: url('/static/img/card1.png'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
     background-blend-mode: overlay;
 }
 
@@ -74,7 +74,7 @@ html {
 }
 
 .cardbg2:hover {
-    background-image: url('/static/img/card2.png'), linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0));
+    background-image: url('/static/img/card2.png'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
     background-blend-mode: overlay;
 }
 
@@ -87,7 +87,7 @@ html {
 }
 
 .cardbg3:hover {
-    background-image: url('/static/img/card3.png'), linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0));
+    background-image: url('/static/img/card3.png'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
     background-blend-mode: overlay;
 }
 
