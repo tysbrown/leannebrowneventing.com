@@ -20,7 +20,7 @@ const Home = createClass({
             <div class="container-fluid z-depth-3 rounded mx-xl-0 mx-lg-0 mx-md-3 mx-sm-3 mx-3">
                 <div class="row">
                     <div class="col-lg-6 p-0">
-                        ${this.props.widgetFor("image1")}
+                        ${entry.getIn(["data", "image1"], null)}
                     </div>
                     <div class="col-lg-6 d-flex align-items-center mt-xl-0 mt-lg-0 mt-md-5 mt-sm-5 mt-5">
                         <div class="container">
