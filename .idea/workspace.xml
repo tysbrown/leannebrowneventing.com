@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing up the entire site.">
       <change beforePath="$PROJECT_DIR$/_includes/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +74,7 @@
       <workItem from="1602519895114" duration="9186000" />
       <workItem from="1602530844757" duration="600000" />
       <workItem from="1602532626306" duration="3173000" />
-      <workItem from="1602539730917" duration="6598000" />
-    </task>
-    <task id="LOCAL-00316" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
-      <created>1602532766691</created>
-      <option name="number" value="00316" />
-      <option name="presentableId" value="LOCAL-00316" />
-      <option name="project" value="LOCAL" />
-      <updated>1602532766691</updated>
+      <workItem from="1602539730917" duration="6825000" />
     </task>
     <task id="LOCAL-00317" summary="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages.">
       <created>1602533029588</created>
@@ -419,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602556147060</updated>
     </task>
-    <option name="localTasksCounter" value="365" />
+    <task id="LOCAL-00365" summary="Polishing up the entire site.">
+      <created>1602556916261</created>
+      <option name="number" value="00365" />
+      <option name="presentableId" value="LOCAL-00365" />
+      <option name="project" value="LOCAL" />
+      <updated>1602556916261</updated>
+    </task>
+    <option name="localTasksCounter" value="366" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +438,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added njk template code to hopefully include the css files in the navbar." />
     <MESSAGE value="Added css and js to templateFormats" />
     <MESSAGE value="Added my custom styles to the head.njk file. Site doesn't appear to be reading style.css but reads the other css files fine." />
     <MESSAGE value="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page." />
@@ -463,7 +462,8 @@
     <MESSAGE value="Added logo." />
     <MESSAGE value="Polishing up the layout." />
     <MESSAGE value="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="Homepage complete, site deployed and domain registered to leannebrowneventing.com&#10;&#10;Polishing up file structure&#10;&#10;Next steps, set up all CMS fields and templates for about, blog, contact, and services pages." />
+    <MESSAGE value="Polishing up the entire site." />
+    <option name="LAST_COMMIT_MESSAGE" value="Polishing up the entire site." />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602441301890">
@@ -478,11 +478,11 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602556148458">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602556917306">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602556148458" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602556917306" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602532679489">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
