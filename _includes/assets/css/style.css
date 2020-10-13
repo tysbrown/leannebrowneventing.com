@@ -103,6 +103,11 @@ html {
     font-size: 250%
 }
 
+.responsive-icon {
+    width: 100px;
+    height: 100px;
+}
+
 @media (min-width: 576px) {
     .responsive-header {
         font-size: 300%
@@ -117,6 +122,11 @@ html {
     .parallax {
         background-attachment: fixed;
     }
+
+    .responsive-icon {
+        width: 130px;
+        height: 130px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -127,6 +137,11 @@ html {
     .parallax {
         background-attachment: fixed;
     }
+
+    .responsive-icon {
+        width: 130px;
+        height: 130px;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -136,6 +151,11 @@ html {
 
     .parallax {
         background-attachment: fixed;
+    }
+
+    .responsive-icon {
+        width: 130px;
+        height: 130px;
     }
 }
 
