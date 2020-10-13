@@ -104,8 +104,8 @@ html {
 }
 
 .responsive-icon {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 80px;
 }
 
 @media (min-width: 576px) {
@@ -125,7 +125,7 @@ html {
 
     .responsive-icon {
         width: 130px;
-        height: 130px;
+        height: 116px;
     }
 }
 
@@ -140,7 +140,7 @@ html {
 
     .responsive-icon {
         width: 130px;
-        height: 130px;
+        height: 116px;
     }
 }
 
@@ -155,7 +155,7 @@ html {
 
     .responsive-icon {
         width: 130px;
-        height: 130px;
+        height: 116px;
     }
 }
 
