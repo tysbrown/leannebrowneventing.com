@@ -7,6 +7,7 @@
 </div>
 {% for post in postslist | reverse %}
 {% if post.url == url %} data-current="current item"{% endif %}
+<div class="container p-xl-0 p-lg-0 p-md-2 p-sm-2 p-2">
 <div class="container white rounded z-depth-3 mb-3">
 	<div class="row">
 		<div class="col-lg-12 green darken-2 white-text p-3 rounded-top">
@@ -53,6 +54,7 @@
 				{% endfor %}
 		</div>
 	</div>
+</div>
 </div>
 {% endif %}
 {% endfor %}
