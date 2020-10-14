@@ -33,30 +33,30 @@ section: post
 <div class="container">
   <div class="row">
     <div class="col-lg-12 green darken-2 rounded-top p-3 mx-xl-0 mx-lg-0 mx-md-3 mx-sm-3 mx-3">
-      <h1 class="text-center">{{ title }}</h1>
+      <h1 class="text-center white-text">{{ title }}</h1>
     </div>
   </div>
   <div class="row">
     <div class="col-lg-12 p-3 mx-xl-0 mx-lg-0 mx-md-3 mx-sm-3 mx-3 white rounded-bottom z-depth-3">
-
       <p>
         <small>
           <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
         </small>
       </p>
-
       {{ layoutContent | safe }}
-
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12 p-2 green darken-2 d-flex justify-content-start rounded-bottom">
       {% if tags %}
-      <p>
-        {% for tag in tags %}
-        {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-        {%- endif -%}
-        {% endfor %}
-      </p>
-      {% endif %}
+      {% for tag in tags %}
+      {%- if tag != "post" -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+      <div class="p-1 green rounded-pill px-3 m-1" style="height: 35px;">
+        <a href="{{ tagUrl | url }}" rel="tag" class="black-text">{{ tag }}</a>
+      </div>
+      {%- endif -%}
+      {% endfor %}
     </div>
   </div>
 </div>
