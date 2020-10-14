@@ -38,11 +38,13 @@ section: post
   </div>
   <div class="row">
     <div class="col-lg-12 p-3 mx-xl-0 mx-lg-0 mx-md-3 mx-sm-3 mx-3 white rounded-bottom z-depth-3">
+
       <p>
         <small>
           <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
         </small>
       </p>
+
       {{ layoutContent | safe }}
     </div>
   </div>
@@ -57,6 +59,7 @@ section: post
       </div>
       {%- endif -%}
       {% endfor %}
+      {% endif %}
     </div>
   </div>
 </div>
