@@ -11,11 +11,13 @@
 	<div class="row">
 		<div class="col-lg-12 green darken-2 white-text p-3 rounded-top">
 			<h1 class="h1-responsive my-0">
-				{% if post.data.title %}
-				{{ post.data.title }}
-				{% else %}
-				Untitled
-				{% endif %}
+				<a href="{{ post.url | url }}" class="white-text">
+					{% if post.data.title %}
+					{{ post.data.title }}
+					{% else %}
+					Untitled
+					{% endif %}
+				</a>
 			</h1>
 		</div>
 	</div>
@@ -35,7 +37,7 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12 mb-2">
-			<a class="btn btn-dark-green text-white" href="{{ post.url | url }}">READ POST</a>
+			<a class="black-text" href="{{ post.url | url }}">Continue Reading...</a>
 		</div>
 	</div>
 	<div class="row">
