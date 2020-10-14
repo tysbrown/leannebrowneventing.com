@@ -31,11 +31,20 @@
 							<button class="btn btn-dark-green text-white" href="{{ post.url | url }}">READ POST</button>
 						</div>
 						<div class="container">
+							{% if post.data.tags %}
+							{% for tag in post.data.tags %}
+							{%- if tag != "post" -%}
+							{% set tagUrl %}/tags/{{ tag }}/{% endset %}
 							<a href="{{ tagUrl | url }}" rel="tag" class="green lighten-2 p-2 small text-uppercase">{{ tag }}</a>
+							{%- endif -%}
+							{% endfor %}
 						</div>
 					</div>
 				</div>
 			</div>
+			{% endif %}
+			{% endfor %}
+
 
 
 
