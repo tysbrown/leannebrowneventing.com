@@ -99,11 +99,24 @@ collections:
         fields:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
-      - label: "Menu Item 1"
-        name: "menuitem1"
+      - label: "Training"
+        name: "training"
         widget: "object"
         fields:
           - { label: "Image", name: "image", widget: "image" }
           - { label: "Header", name: "header", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-
+      - label: "Coaching"
+        name: "coaching"
+        widget: "object"
+        fields:
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Header", name: "header", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Breaking"
+        name: "breaking"
+        widget: "object"
+        fields:
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Header", name: "header", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
