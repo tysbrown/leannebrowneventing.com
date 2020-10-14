@@ -12,8 +12,7 @@ permalink: /blog/index.html
         </div>
     </div>
 </header>
-<div class="container d-flex flex-column justify-content-center mt-5">
+
 {{ layoutContent | safe }}
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
-</div>
