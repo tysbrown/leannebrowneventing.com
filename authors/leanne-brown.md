@@ -1,5 +1,5 @@
 ---
 name: Leanne Brown
 email: leannesarahbrown@gmail.com
-github: NA
+github: N/A
 ---
