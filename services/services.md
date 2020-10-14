@@ -1,6 +1,6 @@
 ---
 title: Services
-permalink: /services/
+permalink: /services/index.html
 eleventyNavigation:
   order: 4
   key: Services
