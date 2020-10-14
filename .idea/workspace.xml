@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servicespage/servicespage.md" beforeDir="false" afterPath="$PROJECT_DIR$/services/services.md" afterDir="false" />
-    </list>
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,14 +80,7 @@
       <workItem from="1602532626306" duration="3173000" />
       <workItem from="1602539730917" duration="13437000" />
       <workItem from="1602608604631" duration="4979000" />
-      <workItem from="1602614996897" duration="28554000" />
-    </task>
-    <task id="LOCAL-00544" summary="Polishing.">
-      <created>1602643342830</created>
-      <option name="number" value="00544" />
-      <option name="presentableId" value="LOCAL-00544" />
-      <option name="project" value="LOCAL" />
-      <updated>1602643342830</updated>
+      <workItem from="1602614996897" duration="28637000" />
     </task>
     <task id="LOCAL-00545" summary="Polishing.">
       <created>1602643423099</created>
@@ -428,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602651660149</updated>
     </task>
-    <option name="localTasksCounter" value="593" />
+    <task id="LOCAL-00593" summary="Polishing.">
+      <created>1602652432159</created>
+      <option name="number" value="00593" />
+      <option name="presentableId" value="LOCAL-00593" />
+      <option name="project" value="LOCAL" />
+      <updated>1602652432159</updated>
+    </task>
+    <option name="localTasksCounter" value="594" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,19 +476,19 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602614495059" />
-    <state x="0" y="218" key="MergeDialog" timestamp="1602142374857">
+    <state x="0" y="218" key="MergeDialog" timestamp="1602652491789">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="0" y="218" key="MergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602142374857" />
-    <state x="600" y="822" key="MultipleFileMergeDialog" timestamp="1602365318449">
+    <state x="0" y="218" key="MergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652491789" />
+    <state x="0" y="23" width="3840" height="2062" key="MultipleFileMergeDialog" timestamp="1602652493143">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
-    <state x="600" y="822" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602365318449" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602651663412">
+    <state x="0" y="23" width="3840" height="2062" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652493143" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602652433488">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602651663412" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652433488" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602623283234">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
