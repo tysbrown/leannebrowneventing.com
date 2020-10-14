@@ -28,14 +28,14 @@
 				<div class="row">
 					<div class="col-lg-12 d-flex">
 						<div class="container flex-1">
-							<button class="btn btn-dark-green text-white" href="/{{ post.url | url }}">READ POST</button>
+							<button class="btn btn-dark-green text-white" href="/blog/{{ post.url | url }}">READ POST</button>
 						</div>
 						<div class="container flex-1 d-flex justify-content-end">
 							{% if post.data.tags %}
 							{% for tag in post.data.tags %}
 							{%- if tag != "post" -%}
 							{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-							<a href="{{ tagUrl | url }}" rel="tag" class="green lighten-2 p-2 small text-uppercase">{{ tag }}</a>
+							<a href="{{ tagUrl | url }}" rel="tag" class="green lighten-2 p-2 small text-uppercase m-1 rounded-pill">{{ tag }}</a>
 							{%- endif -%}
 							{% endfor %}
 						</div>
