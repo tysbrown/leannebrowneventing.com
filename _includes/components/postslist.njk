@@ -29,18 +29,24 @@
 				{% if post.data.summary %}
 				{{ post.data.summary }}
 				{% endif %}
-			<span class="my-3">
+			<p>
 				<a class="black-text" href="{{ post.url | url }}" style="text-decoration:underline;">Continue Reading...</a>
-			</span>
-				{% if post.data.tags %}
-				{% for tag in post.data.tags %}
-				{%- if tag != "post" -%}
-				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-				<div class="px-3 green darken-2 rounded-pill m-1" style="height: 25px;">
-					<a href="{{ tagUrl | url }}" rel="tag" class="white-text font-smaller">{{ tag }}</a>
+			</p>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						{% if post.data.tags %}
+						{% for tag in post.data.tags %}
+						{%- if tag != "post" -%}
+						{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+						<div class="px-3 green darken-2 rounded-pill m-1" style="height: 25px;">
+							<a href="{{ tagUrl | url }}" rel="tag" class="white-text font-smaller">{{ tag }}</a>
+						</div>
+						{%- endif -%}
+						{% endfor %}
+					</div>
 				</div>
-				{%- endif -%}
-				{% endfor %}
+			</div>
 		</div>
 	</div>
 </div>
