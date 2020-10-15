@@ -25,6 +25,7 @@ collections:
         valueField: "name"
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"
