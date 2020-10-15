@@ -42,17 +42,77 @@ section: contact
         </div>
     </div>
 </div>
-
-<div class="container p-xl-0 p-lg-0 p-md-2 p-sm-2 p-2">
-<div class="container white z-depth-3 p-3 rounded mb-3">
+<!-- CONTACT FORM -->
+<section class="container-fluid white z-depth-3 m-2 rounded">
     <div class="row">
-        <div class="col-12">
+        <div class="col-lg-4 p-3 green darken-4">
             {{ layoutContent | safe }}
         </div>
     </div>
-</div>
-{% include "components/form.njk" %}
-</div>
+    <div class="row">
+        <div class="col-lg-8 p-3">
+            <form id="contactform" name="contactform" method="POST" data-netlify="true">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="md-form">
+                            <input type="text" id="firstname" name="FirstName" class="form-control">
+                            <label for="firstname">First Name</label>
+                            <small class="firstnamestatus red-text"></small>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="md-form">
+                            <input type="text" id="lastname" name="LastName" class="form-control">
+                            <label for="lastname">Last Name</label>
+                            <small class="lastnamestatus red-text"></small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="md-form">
+                            <input type="text" id="email" name="Email" class="form-control">
+                            <label for="email">Email Address</label>
+                            <small id="emailmessage" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="md-form">
+                            <input type="text" id="email2" name="Email2" class="form-control">
+                            <label for="email2">Re-Enter Email Address</label>
+                            <small class="nomatch emailstatus red-text"></small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="md-form">
+                            <input type="text" id="subject" name="Subject" class="form-control">
+                            <label for="subject">Subject</label>
+                            <small class="subjectstatus red-text"></small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="md-form">
+                            <textarea type="text" id="message" name="Message" rows="10" class="form-control md-textarea"></textarea>
+                            <label for="message">Message</label>
+                            <small class="messagestatus red-text"></small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <button type="submit" class="btn btn-green" onclick="validateForm();">Send</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+<!-- CONTACT FORM END -->
+
 
 
 
