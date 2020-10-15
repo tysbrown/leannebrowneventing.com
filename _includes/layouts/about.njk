@@ -4,10 +4,9 @@ section: about
 permalink: /about/index.html
 ---
 <style>
-    /* Set the size of the div element that contains the map */
     #map {
-        height: 400px;  /* The height is 400 pixels */
-        width: 100%;  /* The width is the width of the web page */
+        height: 400px;
+        width: 100%;
     }
 </style>
 
@@ -29,8 +28,8 @@ permalink: /about/index.html
 </div>
 <div class="container my-3">
     <div class="row">
-        <div class="col-lg-12 mx-xl-0 mx-lg-0 mx-md-3 mx-sm-3 mx-3 white rounded z-depth-3">
-            <div id="map"></div>
+        <div class="col-lg-12 mx-xl-0 mx-lg-0 mx-md-3 mx-sm-3 mx-3 p-0 white rounded z-depth-3">
+            <div id="map" class="m-0"></div>
             <script>
                 // Initialize and add the map
                 function initMap() {
@@ -38,7 +37,7 @@ permalink: /about/index.html
                     var lbe = {lat: 28.589, lng: -81.695};
                     // The map, centered at Uluru
                     var map = new google.maps.Map(
-                        document.getElementById('map'), {zoom: 7, center: lbe});
+                        document.getElementById('map'), {zoom: 9, center: lbe});
                     // The marker, positioned at Uluru
                     var marker = new google.maps.Marker({position: lbe, map: map});
                 }
