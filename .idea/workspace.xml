@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/components/postslist.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/components/postslist.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,14 +86,7 @@
       <workItem from="1602614996897" duration="31973000" />
       <workItem from="1602698717661" duration="29138000" />
       <workItem from="1602743856846" duration="3000" />
-      <workItem from="1602774182833" duration="8032000" />
-    </task>
-    <task id="LOCAL-00725" summary="Polishing">
-      <created>1602743280845</created>
-      <option name="number" value="00725" />
-      <option name="presentableId" value="LOCAL-00725" />
-      <option name="project" value="LOCAL" />
-      <updated>1602743280845</updated>
+      <workItem from="1602774182833" duration="8091000" />
     </task>
     <task id="LOCAL-00726" summary="Polishing">
       <created>1602743352241</created>
@@ -432,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602783526818</updated>
     </task>
-    <option name="localTasksCounter" value="774" />
+    <task id="LOCAL-00774" summary="Polishing">
+      <created>1602783922206</created>
+      <option name="number" value="00774" />
+      <option name="presentableId" value="LOCAL-00774" />
+      <option name="project" value="LOCAL" />
+      <updated>1602783922206</updated>
+    </task>
+    <option name="localTasksCounter" value="775" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,12 +490,12 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="0" y="23" width="3840" height="2062" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652493143" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602783527734">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602783923328">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
     <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602713215646" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602783527734" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602783923328" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602776774675">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
