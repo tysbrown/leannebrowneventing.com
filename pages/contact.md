@@ -8,4 +8,14 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-Are you in need of an experienced trainer? Get in touch with me with the form below.
+# **Contact**
+
+
+
+15650 Thoroughbred Ln<br>Montverde, FL 34756
+
+
+
+**Email:** leannesarahbrown@gmail.com
+
+**Phone:** +1 (407) 952-2780
