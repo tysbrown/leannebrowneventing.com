@@ -45,7 +45,13 @@ section: post
         </small>
       </p>
 
-      {{ layoutContent | safe }}
+      <p>
+        <small>
+          <span class="font-weight-bold">Summary: </span> {{ summary }}
+        </small>
+      </p>
+      <hr class="my-3">
+        {{ layoutContent | safe }}
     </div>
   </div>
   <div class="row">
