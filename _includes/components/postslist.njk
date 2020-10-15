@@ -11,8 +11,8 @@
 <div class="container white rounded z-depth-3 mb-3">
 	<div class="row">
 		<div class="col-lg-9">
-			<h1 class="h1-responsive my-0 black-text">
-				<a href="{{ post.url | url }}">
+			<h1 class="h1-responsive my-0">
+				<a href="{{ post.url | url }}" class="black-text">
 					{% if post.data.title %}
 					{{ post.data.title }}
 					{% else %}
@@ -43,8 +43,8 @@
 				{% for tag in post.data.tags %}
 				{%- if tag != "post" -%}
 				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-				<div class="px-2 pb-1 green darken-2 rounded-pill m-1" style="height: 20px;">
-					<a href="{{ tagUrl | url }}" rel="tag" class="white-text font-smaller">{{ tag }}</a>
+				<div class="px-3 green darken-2 rounded-pill m-1" style="height: 20px;">
+					<a href="{{ tagUrl | url }}" rel="tag" class="white-text font-smaller" style="line-height:20px;">{{ tag }}</a>
 				</div>
 				{%- endif -%}
 				{% endfor %}
