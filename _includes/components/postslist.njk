@@ -36,17 +36,17 @@
 			</p>
 			<div class="container p-0">
 				<div class="row">
-					{% if post.data.tags %}
-					{% for tag in post.data.tags %}
 					<div class="col-lg-12 d-flex">
+						{% if post.data.tags %}
+						{% for tag in post.data.tags %}
 						{%- if tag != "post" -%}
 						{% set tagUrl %}/tags/{{ tag }}/{% endset %}
 						<div class="px-3 green darken-2 rounded-pill m-1" style="height: 25px;">
 							<a href="{{ tagUrl | url }}" rel="tag" class="white-text font-smaller">{{ tag }}</a>
 						</div>
+						{%- endif -%}
+						{% endfor %}
 					</div>
-					{%- endif -%}
-					{% endfor %}
 				</div>
 			</div>
 		</div>
