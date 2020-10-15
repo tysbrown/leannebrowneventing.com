@@ -40,14 +40,12 @@
 				</div>
 				<div class="row">
 					<div class="col-lg-12">
-						<p class="overflow module">  <!-- Line clamped to first 3 lines of summary -->
+						<p class="overflow module m-0">  <!-- Line clamped to first 3 lines of summary -->
 							{% if post.data.summary %}
 							{{ post.data.summary }}
 							{% endif %}
 						</p>
-						<p>
-							<a class="black-text" href="{{ post.url | url }}" style="text-decoration:underline;">... Continue Reading</a>
-						</p>
+						<a class="black-text mt-1" href="{{ post.url | url }}" style="text-decoration:underline;">... Continue Reading</a>
 					</div>
 				</div>
 				<div class="row">
