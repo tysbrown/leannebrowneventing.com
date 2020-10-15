@@ -12,7 +12,7 @@ tags:
   - Lorem
   - Ipsum
   - Test
-image: /static/img/lbelogo.png
+image: /static/img/threehorses.jpg
 alt: LBE logo
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel suscipit odio, in maximus lorem. Duis nec ex id erat egestas feugiat. Donec ut dapibus erat, a accumsan lorem. Donec vel risus sed orci malesuada ornare id vel sem. Aliquam semper tempus maximus. Nullam at lobortis arcu. Vivamus condimentum, felis nec cursus volutpat, quam magna luctus lectus, quis consequat dolor tellus et risus. Sed porta ipsum eget massa consequat, eget auctor nulla mattis. Aenean at bibendum sem.
