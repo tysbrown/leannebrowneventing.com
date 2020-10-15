@@ -102,6 +102,10 @@ html {
     overflow: hidden;
 }
 
+.module p {
+    margin: 0;
+}
+
 .overflow {
     --max-lines: 3;
     position: relative;
