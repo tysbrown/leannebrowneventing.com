@@ -11,17 +11,17 @@
 <div class="container white rounded z-depth-3 mb-3">
 	<div class="row">
 		<div class="col-lg-3">
-			<img src="{{ image }}" width="100%" alt="{{ alt }}">
+			<a href="{{ post.url | url }}">
+				<img src="{{ image }}" width="100%" alt="{{ alt }}">
+			</a>
 		</div>
 		<div class="col-lg-9">
 			<h1 class="h1-responsive">
-				<a href="{{ post.url | url }}" class="black-text">
 					{% if post.data.title %}
 					{{ post.data.title }}
 					{% else %}
 					Untitled
 					{% endif %}
-				</a>
 			</h1>
 			<time datetime="{{ post.date | machineDate }}">
 				<small>{{ post.date | readableDate }} by <a href="/authors/{{ post.data.author | slug }}/" class="black-text font-weight-bold mb-3">{{ post.data.author }}</a></small>
@@ -32,7 +32,7 @@
 				{% endif %}
 			</p>
 			<p>
-				<a class="btn btn-dark-green m-0" href="{{ post.url | url }}">Read</a>
+				<a class="black-text" href="{{ post.url | url }}" style="text-decoration:underline;">Continue Reading...</a>
 			</p>
 			<div class="container p-0">
 				<div class="row">
@@ -41,7 +41,7 @@
 						{% for tag in post.data.tags %}
 						{%- if tag != "post" -%}
 						{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-						<div class="px-3 grey darken-2 rounded-pill m-1" style="height: 25px;">
+						<div class="px-3 green darken-2 rounded-pill m-1" style="height: 25px;">
 							<a href="{{ tagUrl | url }}" rel="tag" class="white-text font-smaller">{{ tag }}</a>
 						</div>
 						{%- endif -%}
