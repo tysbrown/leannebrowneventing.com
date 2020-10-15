@@ -86,14 +86,7 @@
       <workItem from="1602614996897" duration="31973000" />
       <workItem from="1602698717661" duration="29138000" />
       <workItem from="1602743856846" duration="3000" />
-      <workItem from="1602774182833" duration="3508000" />
-    </task>
-    <task id="LOCAL-00703" summary="Polishing.">
-      <created>1602737602940</created>
-      <option name="number" value="00703" />
-      <option name="presentableId" value="LOCAL-00703" />
-      <option name="project" value="LOCAL" />
-      <updated>1602737602941</updated>
+      <workItem from="1602774182833" duration="3602000" />
     </task>
     <task id="LOCAL-00704" summary="Polishing.">
       <created>1602737806475</created>
@@ -431,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602778819340</updated>
     </task>
-    <option name="localTasksCounter" value="752" />
+    <task id="LOCAL-00752" summary="Polishing">
+      <created>1602779105245</created>
+      <option name="number" value="00752" />
+      <option name="presentableId" value="LOCAL-00752" />
+      <option name="project" value="LOCAL" />
+      <updated>1602779105245</updated>
+    </task>
+    <option name="localTasksCounter" value="753" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,12 +490,12 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="0" y="23" width="3840" height="2062" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652493143" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602778821367">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602779106460">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
     <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602713215646" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602778821367" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602779106460" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602776774675">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
