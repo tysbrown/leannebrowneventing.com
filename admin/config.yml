@@ -144,4 +144,44 @@ collections:
         fields:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
-
+      - { label: "Overview Text", name: "overviewtext", widget: "markdown" }
+      - label: "Work History"
+        name: "workhistory"
+        widget: "object"
+        fields:
+          - { label: "MVA Image", name: "mvaimage", widget: "image" }
+          - { label: "Alt Text", name: "mvaalt", widget: "string" }
+          - { label: "MVA Text", name: "mvatext", widget: "markdown" }
+          - { label: "Ardeo Text", name: "ardeotext", widget: "markdown" }
+          - { label: "Ardeo Image", name: "ardeoimage", widget: "image" }
+          - { label: "Alt Text", name: "ardeoalt", widget: "string" }
+      - label: "Skills"
+        name: "skills"
+        widget: "object"
+        fields:
+          - { label: "Heading 1", name: "heading1", widget: "string" }
+          - { label: "Text 1", name: "text1", widget: "markdown" }
+          - { label: "Heading 2", name: "heading2", widget: "string" }
+          - { label: "Text 2", name: "text2", widget: "markdown" }
+          - { label: "Heading 3", name: "heading3", widget: "string" }
+          - { label: "Text 3", name: "text3", widget: "markdown" }
+      - label: "Photo Gallery"
+        name: "gallery"
+        widget: "object"
+        fields:
+          - { label: "Photo 1", name: "photo1", widget: "image" }
+          - { label: "Photo 2", name: "photo2", widget: "image" }
+          - { label: "Photo 3", name: "photo3", widget: "image" }
+          - { label: "Photo 4", name: "photo4", widget: "image" }
+          - { label: "Photo 5", name: "photo5", widget: "image" }
+          - { label: "Photo 6", name: "photo6", widget: "image" }
+          - { label: "Photo 7", name: "photo7", widget: "image" }
+          - { label: "Photo 8", name: "photo8", widget: "image" }
+          - { label: "Photo 9", name: "photo9", widget: "image" }
+          - { label: "Photo 10", name: "photo10", widget: "image" }
+          - { label: "Photo 11", name: "photo11", widget: "image" }
+          - { label: "Photo 12", name: "photo12", widget: "image" }
+          - { label: "Photo 13", name: "photo13", widget: "image" }
+          - { label: "Photo 14", name: "photo14", widget: "image" }
+          - { label: "Photo 15", name: "photo15", widget: "image" }
+          - { label: "Photo 16", name: "photo16", widget: "image" }
