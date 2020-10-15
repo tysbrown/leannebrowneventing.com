@@ -99,6 +99,14 @@ collections:
         fields:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
+      - label: "Top Row"
+        name: "toprow"
+        widget: "object"
+        fields:
+          - { label: "Text Box 1", name: "textbox1", widget: "string" }
+          - { label: "Text Box 2", name: "textbox2", widget: "string" }
+          - { label: "Text Box 3", name: "textbox3", widget: "string" }
+      - { label: "Second Row Text", name: "secondrowtext", widget: "string" }
       - label: "Training"
         name: "training"
         widget: "object"
