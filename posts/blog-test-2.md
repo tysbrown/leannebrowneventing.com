@@ -7,7 +7,9 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel
   dapibus erat, a accumsan lorem. Donec vel risus sed orci malesuada ornare id
   vel sem. Aliquam semper tempus maximus.
 tags:
-  - post
+  - Lorem
+  - Ipsum
+  - Testing
 image: /static/img/nicehair.jpg
 alt: Nice Hair
 ---
