@@ -10,12 +10,8 @@ eleventyNavigation:
 ---
 # **Contact**
 
+15650 Thoroughbred Ln<br>Montverde, FL 34756
 
+**Email:** leannesarahbrown@gmail.com
 
-15650 Thoroughbred Ln
-
-Montverde, FL 34756
-
-
-
-Email: leannesarahbrown@gmail.com
+**Phone:** +1 (407) 952-2780
