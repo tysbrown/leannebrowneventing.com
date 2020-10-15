@@ -16,21 +16,21 @@
 			</a>
 		</div>
 		<div class="col-lg-9">
-			{% if post.data.title %}
 			<h1 class="h1-responsive">
+				{% if post.data.title %}
 					{{ post.data.title }}
 					{% else %}
 					Untitled
+				{% endif %}
 			</h1>
-			{% endif %}
 			<time datetime="{{ post.date | machineDate }}">
 				<small>{{ post.date | readableDate }} by <a href="/authors/{{ post.data.author | slug }}/" class="black-text font-weight-bold mb-3">{{ post.data.author }}</a></small>
 			</time>
-			{% if post.data.summary %}
 			<p>
-				{{ post.data.summary }}
+				{% if post.data.summary %}
+					{{ post.data.summary }}
+				{% endif %}
 			</p>
-			{% endif %}
 			<p>
 				<a class="black-text" href="{{ post.url | url }}" style="text-decoration:underline;">Continue Reading...</a>
 			</p>
