@@ -108,7 +108,6 @@ html {
     position: relative;
     max-height: calc(var(--lh) * var(--max-lines));
     overflow: hidden;
-    padding-right: 1rem; /* space for ellipsis */
 }
 
 .responsive-header {
