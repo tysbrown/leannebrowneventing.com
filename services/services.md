@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 4
   key: Services
 training:
-  image: /static/img/card1.png
+  image: /static/img/lbejump.png
   header: Training
   body: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur,
     lacus non blandit egestas, risus erat elementum ex, quis semper ipsum odio
@@ -16,7 +16,7 @@ training:
     vestibulum leo. Donec eu odio sed erat elementum iaculis. Praesent ultricies
     diam nulla, ut faucibus lorem efficitur auctor.
 coaching:
-  image: /static/img/card2.png
+  image: /static/img/lbecoaching.png
   header: Coaching
   body: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur,
     lacus non blandit egestas, risus erat elementum ex, quis semper ipsum odio
@@ -27,7 +27,7 @@ coaching:
     vestibulum leo. Donec eu odio sed erat elementum iaculis. Praesent ultricies
     diam nulla, ut faucibus lorem efficitur auctor.
 breaking:
-  image: /static/img/card3.png
+  image: /static/img/lbebreaking.png
   header: Breaking
   body: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur,
     lacus non blandit egestas, risus erat elementum ex, quis semper ipsum odio
