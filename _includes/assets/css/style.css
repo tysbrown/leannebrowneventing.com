@@ -110,7 +110,11 @@ html {
 }
 
 .five-rem {
-    font-size: 200%;
+    font-size: 5rem;
+}
+
+.five-rem-responsive {
+    font-size: 250%;
 }
 
 .responsive-header {
@@ -126,10 +130,18 @@ html {
     .responsive-header {
         font-size: 300%;
     }
+
+    .five-rem-responsive {
+        font-size: 300%;
+    }
 }
 
 @media (min-width: 768px) {
     .responsive-header {
+        font-size: 450%;
+    }
+
+    .five-rem-responsive {
         font-size: 450%;
     }
 
@@ -148,6 +160,10 @@ html {
         font-size: 600%;
     }
 
+    .five-rem-responsive {
+        font-size: 600%;
+    }
+
     .parallax {
         background-attachment: fixed;
     }
@@ -160,6 +176,10 @@ html {
 
 @media (min-width: 1200px) {
     .responsive-header {
+        font-size: 700%;
+    }
+
+    .five-rem-responsive {
         font-size: 700%;
     }
 
