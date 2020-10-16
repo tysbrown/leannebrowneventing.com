@@ -26,6 +26,4 @@ testimonials:
   image2: /static/img/upclose.png
   image3: /static/img/upclose.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur, lacus non blandit egestas, risus erat elementum ex, quis semper ipsum odio ut enim. Nam tempor nisl at risus facilisis, quis posuere sapien feugiat. Fusce eget mattis velit, ut interdum dui. Cras aliquam, ligula vitae pharetra fermentum, enim libero iaculis est, ut vehicula tellus dolor vestibulum dolor. Sed velit ante, porttitor malesuada orci quis, gravida vestibulum leo. Donec eu odio sed erat elementum iaculis. Praesent ultricies diam nulla, ut faucibus lorem efficitur auctor.
-
-**Since 2006**
+# Hi, my name is Leanne Brown. I'm an <span class="green-text">Equine Trainer & Coach</span> with 14 years of experience in the equine industry.
