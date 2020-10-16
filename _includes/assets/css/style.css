@@ -109,6 +109,10 @@ html {
     overflow: hidden;
 }
 
+.five-rem {
+    font-size: 5rem;
+}
+
 .responsive-header {
     font-size: 250%
 }
