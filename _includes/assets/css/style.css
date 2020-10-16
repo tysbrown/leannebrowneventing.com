@@ -110,11 +110,11 @@ html {
 }
 
 .five-rem {
-    font-size: 5rem;
+    font-size: 200%;
 }
 
 .responsive-header {
-    font-size: 250%
+    font-size: 250%;
 }
 
 .responsive-icon {
@@ -124,13 +124,13 @@ html {
 
 @media (min-width: 576px) {
     .responsive-header {
-        font-size: 300%
+        font-size: 300%;
     }
 }
 
 @media (min-width: 768px) {
     .responsive-header {
-        font-size: 450%
+        font-size: 450%;
     }
 
     .parallax {
@@ -145,7 +145,7 @@ html {
 
 @media (min-width: 992px) {
     .responsive-header {
-        font-size: 600%
+        font-size: 600%;
     }
 
     .parallax {
