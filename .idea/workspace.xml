@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing">
-      <change afterPath="$PROJECT_DIR$/_includes/assets/css/ekko-lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/js/ecko-lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/js/ekko-lightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/js/ekko-lightbox.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/assets/js/ekko-lightbox.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/layouts/about.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/about.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +88,7 @@
       <workItem from="1602614996897" duration="31973000" />
       <workItem from="1602698717661" duration="29138000" />
       <workItem from="1602743856846" duration="3000" />
-      <workItem from="1602774182833" duration="23918000" />
-    </task>
-    <task id="LOCAL-00787" summary="Polishing">
-      <created>1602785457085</created>
-      <option name="number" value="00787" />
-      <option name="presentableId" value="LOCAL-00787" />
-      <option name="project" value="LOCAL" />
-      <updated>1602785457085</updated>
+      <workItem from="1602774182833" duration="24078000" />
     </task>
     <task id="LOCAL-00788" summary="Polishing">
       <created>1602785527352</created>
@@ -441,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602805889345</updated>
     </task>
-    <option name="localTasksCounter" value="836" />
+    <task id="LOCAL-00836" summary="Polishing">
+      <created>1602807786151</created>
+      <option name="number" value="00836" />
+      <option name="presentableId" value="LOCAL-00836" />
+      <option name="project" value="LOCAL" />
+      <updated>1602807786151</updated>
+    </task>
+    <option name="localTasksCounter" value="837" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,12 +492,12 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="0" y="23" width="3840" height="2062" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652493143" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602805890386">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602807787464">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
     <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602713215646" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602805890386" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602807787464" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602776774675">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
