@@ -26,4 +26,4 @@ testimonials:
   image2: /static/img/upclose.png
   image3: /static/img/upclose.png
 ---
-# **Hi, my name is Leanne Brown. I'm an <span class="green-text">Equine Trainer & Coach</span> with 14 years of experience in the equine industry.**
+# **<span style="font-size:3rem;">Hi, my name is Leanne Brown. I'm an <span class="green-text">Equine Trainer & Coach</span> with 14 years of experience in the equine industry.</span>**
