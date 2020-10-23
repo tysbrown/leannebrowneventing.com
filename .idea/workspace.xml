@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Polishing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/about.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/about.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/contact.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/contact.njk" afterDir="false" />
+    <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Changed animations, changed contact form text and margins, updated lorem ipsum text.">
       <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/services.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/services.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,14 +90,7 @@
       <workItem from="1602743856846" duration="3000" />
       <workItem from="1602774182833" duration="33930000" />
       <workItem from="1602963301578" duration="529000" />
-      <workItem from="1603493411268" duration="1294000" />
-    </task>
-    <task id="LOCAL-00827" summary="Polishing">
-      <created>1602804382796</created>
-      <option name="number" value="00827" />
-      <option name="presentableId" value="LOCAL-00827" />
-      <option name="project" value="LOCAL" />
-      <updated>1602804382796</updated>
+      <workItem from="1603493411268" duration="1650000" />
     </task>
     <task id="LOCAL-00828" summary="Polishing">
       <created>1602804897244</created>
@@ -439,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602820170053</updated>
     </task>
-    <option name="localTasksCounter" value="876" />
+    <task id="LOCAL-00876" summary="Changed animations, changed contact form text and margins, updated lorem ipsum text.">
+      <created>1603494729987</created>
+      <option name="number" value="00876" />
+      <option name="presentableId" value="LOCAL-00876" />
+      <option name="project" value="LOCAL" />
+      <updated>1603494729987</updated>
+    </task>
+    <option name="localTasksCounter" value="877" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +454,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Moved nav bar to base file, wasn't working properly in the navbar component file. Seems to be working now that it's in base. Added the parallax header to the home page." />
     <MESSAGE value="Added images to img folder in assets." />
     <MESSAGE value="Hopefully finally fixed background image." />
     <MESSAGE value="Finally figured out that images are served from static/img and that files uploaded through the CMS live in that directory. Awesome." />
@@ -483,7 +478,8 @@
     <MESSAGE value="Polishing up the entire site." />
     <MESSAGE value="Polishing." />
     <MESSAGE value="Polishing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polishing" />
+    <MESSAGE value="Changed animations, changed contact form text and margins, updated lorem ipsum text." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed animations, changed contact form text and margins, updated lorem ipsum text." />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="808" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602614495059">
@@ -498,11 +494,11 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="0" y="23" width="3840" height="2062" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652493143" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1602820171273">
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1603494731948">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602713215646" />
+    <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1603494731948" />
     <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602820171273" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602776774675">
       <screen x="0" y="23" width="3840" height="2062" />
