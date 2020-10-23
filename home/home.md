@@ -7,9 +7,9 @@ eleventyNavigation:
   key: Home
 image1: /static/img/about.jpeg
 testimonials:
-  name1: Bill Bob
-  name2: Jill Michelle
-  name3: Andy Bob
+  name1: Firstname Lastname
+  name2: Firstname Lastname
+  name3: Firstname Lastname
   body1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur,
     lacus non blandit egestas, risus erat elementum ex, quis semper ipsum odio
     ut enim. Nam tempor nisl at risus facilisis, quis posuere sapien feugiat.
