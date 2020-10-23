@@ -8,4 +8,4 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-Let's start a conversation. I look forward to hearing from you!
+Do you have goals as a rider? I specialize in getting you there. Let's have a conversation about where you want to be.
