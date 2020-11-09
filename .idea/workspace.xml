@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5f2362d-9d56-41f7-9e4a-19ca73361d03" name="Default Changelist" comment="Changed animations, changed contact form text and margins, updated lorem ipsum text.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/home.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/home.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,14 +92,8 @@
       <workItem from="1602963301578" duration="529000" />
       <workItem from="1603493411268" duration="2159000" />
       <workItem from="1603502606615" duration="272000" />
-      <workItem from="1603690250702" duration="139000" />
-    </task>
-    <task id="LOCAL-00832" summary="Polishing">
-      <created>1602805510674</created>
-      <option name="number" value="00832" />
-      <option name="presentableId" value="LOCAL-00832" />
-      <option name="project" value="LOCAL" />
-      <updated>1602805510674</updated>
+      <workItem from="1603690250702" duration="585000" />
+      <workItem from="1604538028021" duration="108000" />
     </task>
     <task id="LOCAL-00833" summary="Polishing">
       <created>1602805777771</created>
@@ -438,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603495630860</updated>
     </task>
-    <option name="localTasksCounter" value="881" />
+    <task id="LOCAL-00881" summary="Changed animations, changed contact form text and margins, updated lorem ipsum text.">
+      <created>1603690395974</created>
+      <option name="number" value="00881" />
+      <option name="presentableId" value="LOCAL-00881" />
+      <option name="project" value="LOCAL" />
+      <updated>1603690395974</updated>
+    </task>
+    <option name="localTasksCounter" value="882" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,12 +497,13 @@
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
     <state x="0" y="23" width="3840" height="2062" key="MultipleFileMergeDialog/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1602652493143" />
-    <state x="559" y="793" key="Vcs.Push.Dialog.v2" timestamp="1603495632079">
-      <screen x="0" y="23" width="3840" height="2062" />
+    <state x="298" y="478" key="Vcs.Push.Dialog.v2" timestamp="1603690398054">
+      <screen x="0" y="0" width="2048" height="1280" />
     </state>
     <state x="559" y="807" key="Vcs.Push.Dialog.v2/-1440.1573.1440.900/0.0.3840.2160@0.0.3840.2160" timestamp="1602441082150" />
     <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1440.1596.1440.877/0.23.3840.2062@0.23.3840.2062" timestamp="1603495632079" />
     <state x="559" y="793" key="Vcs.Push.Dialog.v2/-1650.1596.1650.1027/0.23.3840.2062@0.23.3840.2062" timestamp="1602820171273" />
+    <state x="298" y="478" key="Vcs.Push.Dialog.v2/0.0.2048.1280@0.0.2048.1280" timestamp="1603690398054" />
     <state x="772" y="975" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602776774675">
       <screen x="0" y="23" width="3840" height="2062" />
     </state>
